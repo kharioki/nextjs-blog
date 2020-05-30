@@ -4,7 +4,7 @@ import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
 const name = 'Kharioki';
-export const siteTitle = 'Next.js Sample Website';
+export const siteTitle = 'My Next.js Website';
 
 export default function Layout({ children, home }) {
   return (
